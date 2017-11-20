@@ -1,0 +1,32 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Documents\School\2017-2018\IGME-202\Bagri_Asteroids\Bagri_Asteroids_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Documents\School\2017-2018\IGME-202\Bagri_Asteroids\Bagri_Asteroids_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Documents\School\2017-2018\IGME-202\Bagri_Asteroids\Bagri_Asteroids_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Documents\School\2017-2018\IGME-202\Bagri_Asteroids\Bagri_Asteroids_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Documents\School\2017-2018\IGME-202\Bagri_Asteroids\Bagri_Asteroids_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Documents\School\2017-2018\IGME-202\Bagri_Asteroids\Bagri_Asteroids_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Documents\School\2017-2018\IGME-202\Bagri_Asteroids\Bagri_Asteroids_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Documents\School\2017-2018\IGME-202\Bagri_Asteroids\Bagri_Asteroids_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Documents\School\2017-2018\IGME-202\Bagri_Asteroids\Bagri_Asteroids_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Documents\School\2017-2018\IGME-202\Bagri_Asteroids\Bagri_Asteroids_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+Platform assembly: D:\Documents\School\2017-2018\IGME-202\Bagri_Asteroids\Bagri_Asteroids_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Documents\School\2017-2018\IGME-202\Bagri_Asteroids\Bagri_Asteroids_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 4800x1350 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 6.405133 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4d9c -> priority: 1 
+  Thread -> id: 46c0 -> priority: 1 
+  Thread -> id: 4d8c -> priority: 1 
+  Thread -> id: 418c -> priority: 1 

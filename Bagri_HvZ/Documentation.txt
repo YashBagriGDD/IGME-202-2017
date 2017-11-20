@@ -1,2 +1,29 @@
+Yash Bagri
+IGME 202, Section 5
+
+Assignment: 
+Humans vs Zombies
+
+Description: 
+Simulation of a Humans vs Zombies scenario. The humans and zombies are randomly spawned in the park, humans will wander until a zombie comes in range and then they will try to evade the zombies. If an agent goes to the bounds of the park they will be steered towards the center of the park.
+
+Press the "D" key to toggle the debug lines on and off.
+
+Above and Beyond:
+Added buttons to spawn extra humans and zombies into the scene.
+
+Known Issues: 
+Spawned zombies from turned humans can possibly get targeted on some object in the center that doesnt exist and go for that, upon all humans being turned will wander properly. Spawned humans after all humans have been turned will not be target, will be targeted normally if spawned with humans still alive. Some of the steering occasionally messes with the Y value in the velocity (normally with the first mentioned zombie issue). 
+
+Notes:
+2 Day extension used
+
+Assets:
 Zombie Model:
 https://www.assetstore.unity3d.com/en/#!/content/24298
+
+Human Model:
+https://www.assetstore.unity3d.com/en/#!/content/79870
+
+Trees:
+https://www.assetstore.unity3d.com/en/#!/content/95968

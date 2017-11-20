@@ -1,0 +1,40 @@
+Yash Bagri
+IGME 202, Section 5
+
+Assignment: 
+Asteroids
+
+Description: 
+Move the ship around and shoot the asteroids. As you clear the screen more asteroids will appear.
+Try to get as far as you can for the highest score! If you run out of lives game will reset.
+
+Up Arrow - Accelerate
+Left Arrow - Turn Left
+Right Arror - Turn Right
+Space Bar - Shoot
+Escape - Exit Game
+
+Above and Beyond:
+Added sound effects to the asteroids, ship death, and shoot along with back ground music.
+Added a wave system that will generate more asteroids as the wave is cleared.
+High score system that is saved. 
+
+Known Issues: 
+No invincibility frames on player so a crash can result in you being catapulted into another asteroid leading to a chain hit.
+Screen wrap doesn't take place till a bit off the screen so if the asteroid is moving in a certain way it can end up moving across the screen with a very little bit of it visible.
+Cannot Shoot while accelerating and turning.
+
+Notes:
+Sprites recreated by me.
+
+BGM: Disco Break 125:
+https://www.dl-sounds.com/royalty-free/disco-break-125/
+
+SE (Shoot): Laser:
+http://soundbible.com/1087-Laser.html
+
+SE (Ship Death): Bomb Explode:
+http://soundbible.com/1986-Bomb-Exploding.html
+
+SE (Asteroid Break): Explosion 1
+https://www.freesoundeffects.com/free-track/explosion-1-466446/ 
